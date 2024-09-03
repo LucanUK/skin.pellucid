@@ -1,6 +1,6 @@
 # Kodi Media Center language file
 # Addon Name: Pellucid
-# Addon id: skin.pellucid
+# Addon id: skin.pellucidRemix
 # Addon Provider: chrisbevan
 msgid ""
 msgstr ""

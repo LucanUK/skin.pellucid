@@ -1,7 +1,8 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<addon id="skin.pellucid" version="3.1.0" name="Pellucid" provider-name="theDeadman">
+<addon id="skin.pellucidRemix" version="3.1.0" name="PellucidRemix" provider-name="LucanUK">
+    <backwards-compatibility abi="5.17.0"/>
     <requires>
-        <import addon="xbmc.gui" version="5.15.0"/>
+        <import addon="xbmc.gui" version="5.17.0"/>
     </requires>
     <extension point="xbmc.gui.skin" debugging="false">
         <res width="1920" height="1080" aspect="16:9" default="true" folder="1080i" />
@@ -10,7 +11,7 @@
         <platform>all</platform>
         <license>Creative Commons Attribution-Noncommercial-Share Alike 3.0</license>
         <forum>https://forum.kodi.tv/forumdisplay.php?fid=267</forum>
-        <source>https://github.com/chrisbevan/skin.pellucid</source>
+        <source>https://github.com/LucanUK/skin.pellucid</source>
         <assets>
             <icon>resources/icon.png</icon>
             <fanart>resources/fanart.jpg</fanart>
